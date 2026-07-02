@@ -23,8 +23,6 @@ Desarrollar una metodología computacional para el análisis de accidentes e inc
 - Desarrollar un Análisis Exploratorio de Datos (EDA) que permita comprender la calidad, estructura y comportamiento estadístico del conjunto de datos.
 - Aplicar técnicas de Procesamiento de Lenguaje Natural (NLP) sobre la variable **ProbableCause** para extraer información relevante de las descripciones textuales de los accidentes.
 - Implementar métodos numéricos para apoyar el procesamiento y análisis computacional de la información.
-- Preparar un conjunto de datos adecuado para el entrenamiento de modelos de aprendizaje automático.
-- Desarrollar y evaluar un modelo basado en redes neuronales para la clasificación de eventos aeronáuticos.
 
 ---
 # Dataset
