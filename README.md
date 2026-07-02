@@ -10,28 +10,48 @@ empleando técnicas de análisis de datos y visualización en Python.
 
 ---
 
-## Objetivos
+# Objetivo General
 
-- Analizar la distribución de accidentes por año.
-- Analizar la severidad de los eventos.
-- Identificar tendencias temporales.
-- Explorar variables operacionales y ambientales.
-- Generar mapas interactivos de los accidentes.
-- Desarrollar un análisis exploratorio reproducible mediante Python.
+Desarrollar una metodología computacional para el análisis de accidentes e incidentes aeronáuticos mediante programación científica, análisis exploratorio de datos, procesamiento de lenguaje natural, métodos numéricos y modelos de aprendizaje automático.
 
 ---
 
-## Dataset
+## Objetivos
+
+- Implementar una estructura organizada y reproducible para el desarrollo del proyecto utilizando Python y GitHub.
+- Realizar la carga, auditoría, validación y limpieza del conjunto de datos de la National Transportation Safety Board (NTSB).
+- Desarrollar un Análisis Exploratorio de Datos (EDA) que permita comprender la calidad, estructura y comportamiento estadístico del conjunto de datos.
+- Aplicar técnicas de Procesamiento de Lenguaje Natural (NLP) sobre la variable **ProbableCause** para extraer información relevante de las descripciones textuales de los accidentes.
+- Implementar métodos numéricos para apoyar el procesamiento y análisis computacional de la información.
+- Preparar un conjunto de datos adecuado para el entrenamiento de modelos de aprendizaje automático.
+- Desarrollar y evaluar un modelo basado en redes neuronales para la clasificación de eventos aeronáuticos.
+
+---
+# Dataset
 
 **Fuente**
 
 National Transportation Safety Board (NTSB)
 
-Archivo utilizado:
+https://www.ntsb.gov/
+
+**Archivo utilizado**
 
 ```
 data/raw/NTSB Accident data.csv
 ```
+
+El conjunto de datos contiene información histórica sobre accidentes e incidentes aeronáuticos, incluyendo variables relacionadas con:
+
+- Fecha del evento
+- Ubicación geográfica
+- Fabricante y modelo
+- Categoría de aeronave
+- Tipo de operación
+- Condiciones meteorológicas
+- Nivel de lesiones
+- Daños de la aeronave
+- Descripción de la causa probable del accidente
 
 ---
 
@@ -75,24 +95,21 @@ Proyecto-PMN
 
 ---
 
-## Resultados
+# Resultados Esperados
 
-El proyecto genera diferentes análisis estadísticos y visualizaciones, incluyendo:
+Al finalizar el proyecto se dispondrá de:
 
-- Estadística descriptiva.
-- Distribuciones de variables.
-- Valores faltantes.
-- Correlaciones.
-- Visualizaciones temporales.
-- Mapas interactivos de accidentes.
-- Resultados almacenados en la carpeta `outputs`.
+- Un flujo de trabajo completamente reproducible para el análisis de datos aeronáuticos.
+- Un análisis exploratorio exhaustivo del conjunto de datos de la NTSB.
+- Un sistema de procesamiento de lenguaje natural aplicado a las causas probables de accidentes.
+- Un conjunto de datos preparado para tareas de aprendizaje automático.
+- Un modelo basado en redes neuronales para apoyar la clasificación de eventos aeronáuticos.
+- Un repositorio organizado, documentado y versionado mediante Git y GitHub.
 
 ---
 
 ## Autor
 
 José Luis Martínez Díaz
-
 Universidad Nacional de Colombia
-
 Programa de Física
