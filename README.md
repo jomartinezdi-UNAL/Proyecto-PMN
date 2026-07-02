@@ -111,5 +111,7 @@ Al finalizar el proyecto se dispondrá de:
 ## Autor
 
 José Luis Martínez Díaz
+
 Universidad Nacional de Colombia
+
 Programa de Física
