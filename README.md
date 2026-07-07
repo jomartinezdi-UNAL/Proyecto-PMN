@@ -16,7 +16,7 @@ Desarrollar una metodología computacional para el análisis de accidentes e inc
 
 ---
 
-## Objetivos
+## Objetivos específicos
 
 - Implementar una estructura organizada y reproducible para el desarrollo del proyecto utilizando Python y GitHub.
 - Realizar la carga, auditoría, validación y limpieza del conjunto de datos de la National Transportation Safety Board (NTSB).
