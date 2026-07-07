@@ -101,7 +101,6 @@ Al finalizar el proyecto se dispondrá de:
 - Un análisis exploratorio exhaustivo del conjunto de datos de la NTSB.
 - Un sistema de procesamiento de lenguaje natural aplicado a las causas probables de accidentes.
 - Un conjunto de datos preparado para tareas de aprendizaje automático.
-- Un modelo basado en redes neuronales para apoyar la clasificación de eventos aeronáuticos.
 - Un repositorio organizado, documentado y versionado mediante Git y GitHub.
 
 ---
